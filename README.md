@@ -22,3 +22,9 @@
   ## Contact:
   - Github [agarcia31](https://github.com/agarcia31)
   - Email: [a.garcia.atn31@gmail.com](mailto:a.garcia.atn31@gmail.com)
+  
+  ## ScreenShots
+  -![2023-02-09 (5)](https://user-images.githubusercontent.com/51844701/217984611-5c626dda-9b2d-4c64-a401-abdbb4b41b38.png)
+  
+  ##Deployed
+  -https://agarcia31.github.io/My-Portfolio/

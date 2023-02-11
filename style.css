@@ -123,7 +123,7 @@ html{
     margin: 10px;
 }
 .major {
-    display: flex;
+    display: table-column;
     flex-direction: wrap;
     justify-content: space-around;
     box-sizing: border-box;

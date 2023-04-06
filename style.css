@@ -118,8 +118,8 @@ html{
     box-sizing: border-box;
 }
 .gallery img{
-    width: 380px;
-    height: 290px;
+    width: 170px;
+    height: 190px;
     margin: 10px;
 }
 .major {
@@ -129,8 +129,8 @@ html{
     box-sizing: border-box;
 }
 .major img{
-    width: 590px;
-    height: 480px;
+    width: 310px;
+    height: 210px;
     margin: 10px;
 }
 /* Contact Section */ 
